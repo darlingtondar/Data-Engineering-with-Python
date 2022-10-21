@@ -1,10 +1,6 @@
-While it all started after i have been employed as a Junior Data Engineer for Gans (a fictional company set up just for learning), 
-an e-scooter-sharing start-up company. It aspires to operate in most populous cities all round the world. In each city, the company
-will have hundreds of e-scooters parked in the streets and allow users to rent them by the minute. Gans has seen that its operational 
-success depends on having its scooters parked where users need them. The company wants to anticipate as much as possible scooter movements.  
+While it all started after i have been employed as a Junior Data Engineer for Gans (a fictional company set up just for learning), an e-scooter-sharing start-up company. It aspires to operate in most populous cities all round the world. In each city, the company
+will have hundreds of e-scooters parked in the streets and allow users to rent them by the minute. Gans has seen that its operational success depends on having its scooters parked where users need them. The company wants to anticipate as much as possible scooter movements.  
 Predictive modelling is certainly on the roadmap, but the first step is to collect more data, transform it and store it appropriately. 
 
-This is where I come in. My task will be to collect data from external sources that can potentially help Gans predict e-scooter movement. 
-Since data is needed every day, in real-time and accessible by everyone in the company, the challenge is going to be to assemble and automate 
-a data pipeline in the cloud. And because Gans is based is Germany and facing already tough e-scooter competitors already, I decided to start the 
-project from Germany.  
+This is where I come in. My task will be to collect data from external sources that can potentially help Gans predict e-scooter movement. Since data is needed every day, in real-time and accessible by everyone in the company, the challenge is going to be to assemble and automate 
+a data pipeline in the cloud. And because Gans is based is Germany and facing already tough e-scooter competitors already, I decided to start the project from Germany.  
